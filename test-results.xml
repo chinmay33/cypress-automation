@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="1.828" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2024-04-08T10:08:46" tests="0" file="cypress\integration\Examples\Test9.js" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Get Method" timestamp="2024-04-08T10:08:46" tests="1" time="1.276" failures="0">
+    <testcase name="Get Method Scenario 2" time="1.236" classname="Scenario 2">
+    </testcase>
+  </testsuite>
+  <testsuite name="Post Method" timestamp="2024-04-08T10:08:47" tests="1" time="0.545" failures="0">
+    <testcase name="Post Method Scenario 3" time="0.520" classname="Scenario 3">
+    </testcase>
+  </testsuite>
+</testsuites>
